@@ -1,0 +1,6 @@
+{
+  "name": "Burstcoin wallet",
+  "description": "Burstcoin wallet ",
+  "repository": "https://github.com/Doncode/burstcoin-heroku",
+  "keywords": ["Burstcoin", "wallet", "java", "heroku"]
+}
