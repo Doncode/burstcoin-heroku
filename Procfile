@@ -1,1 +1,1 @@
-web: java  -cp burst.jar;conf brs.Burst
+web: java $JAVA_OPTS -cp burst.jar;conf brs.Burst
